@@ -1,0 +1,2 @@
+source ../stylegan2-ada-pytorch/venvs/cud11/bin/activate
+python metfaces_64.py --json data/metfaces-dataset.json --source-images /mnt/d/Data/metfaces-dataset/metfaces-release/ --output-dir out-64
